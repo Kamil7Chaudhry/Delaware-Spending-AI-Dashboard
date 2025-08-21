@@ -62,6 +62,10 @@ Live dashboard: [Google Looker Studio Dashboard](https://lookerstudio.google.com
 ---
 
 ## Contact
-**Kamil Kamil Munir Chaudhry**  
-Email: kamilch@udel.edu
-GitHub: [https://github.com/YourUsername]([https://github.com/YourUsername](https://github.com/Kamil7Chaudhry))
+**Kamil Munir Chaudhry**  
+Email: kamilch@udel.edu  
+LinkedIn: [https://www.linkedin.com/in/kamil-munir-chaudhry-015621219/](https://www.linkedin.com/in/kamil-munir-chaudhry-015621219/)  
+GitHub: [https://github.com/Kamil7Chaudhry](https://github.com/Kamil7Chaudhry)
+
+
+
